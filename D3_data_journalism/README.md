@@ -1,4 +1,4 @@
-# Unit 16 | Assignment - Data Journalism and D3
+Data Journalism using D3 library
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
